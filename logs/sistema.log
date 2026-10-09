@@ -1,0 +1,17 @@
+2026-09-28 16:48:51,418 | INFO | Aplicacion iniciada.
+2026-09-28 16:48:51,419 | ERROR | Dato rechazado: Falta el campo: timestamp
+2026-09-28 16:48:51,419 | WARNING | SENSOR-001 - ANOMALIA: temperatura fuera de rango
+2026-09-28 16:48:52,425 | WARNING | SENSOR-001 - ANOMALIA: temperatura fuera de rango
+2026-09-28 16:48:53,437 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:48:54,446 | WARNING | SENSOR-001 - ANOMALIA: temperatura fuera de rango
+2026-09-28 16:48:55,453 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:48:56,460 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:48:57,476 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:48:58,492 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:48:59,502 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:49:00,508 | WARNING | SENSOR-001 - ANOMALIA: temperatura fuera de rango
+2026-09-28 16:49:01,523 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:49:02,535 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:49:03,543 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:49:04,554 | INFO | SENSOR-001 - Datos normales
+2026-09-28 16:49:05,569 | INFO | Aplicacion finalizada.
